@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hmova\OneDrive\Dokumente\Dev\C_C++\Icon_Radar\build\CMakeFiles\a8b4efa291c5353a5c431971e78c7222\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7F8630B3-3CE9-3C99-9A17-A454BA0BC91E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

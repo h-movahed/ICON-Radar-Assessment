@@ -1,0 +1,10 @@
+^C:\USERS\HMOVA\ONEDRIVE\DOKUMENTE\DEV\C_C++\ICON_RADAR\BUILD\CMAKEFILES\A8B4EFA291C5353A5C431971E78C7222\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hmova/OneDrive/Dokumente/Dev/C_C++/Icon_Radar -BC:/Users/hmova/OneDrive/Dokumente/Dev/C_C++/Icon_Radar/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hmova/OneDrive/Dokumente/Dev/C_C++/Icon_Radar/build/Icon_Radar.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
